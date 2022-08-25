@@ -1,0 +1,15 @@
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\bin\Debug\net6.0\FactoryPattern_ExerciseTwo.exe
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\bin\Debug\net6.0\FactoryPattern_ExerciseTwo.deps.json
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\bin\Debug\net6.0\FactoryPattern_ExerciseTwo.runtimeconfig.json
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\bin\Debug\net6.0\FactoryPattern_ExerciseTwo.dll
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\bin\Debug\net6.0\FactoryPattern_ExerciseTwo.pdb
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\obj\Debug\net6.0\FactoryPattern_ExerciseTwo.csproj.AssemblyReference.cache
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\obj\Debug\net6.0\FactoryPattern_ExerciseTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\obj\Debug\net6.0\FactoryPattern_ExerciseTwo.AssemblyInfoInputs.cache
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\obj\Debug\net6.0\FactoryPattern_ExerciseTwo.AssemblyInfo.cs
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\obj\Debug\net6.0\FactoryPattern_ExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\obj\Debug\net6.0\FactoryPattern_ExerciseTwo.dll
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\obj\Debug\net6.0\refint\FactoryPattern_ExerciseTwo.dll
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\obj\Debug\net6.0\FactoryPattern_ExerciseTwo.pdb
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\obj\Debug\net6.0\FactoryPattern_ExerciseTwo.genruntimeconfig.cache
+C:\Users\amryo\Repos\FactoryPattern_ExerciseTwo\FactoryPattern_ExerciseTwo\obj\Debug\net6.0\ref\FactoryPattern_ExerciseTwo.dll
